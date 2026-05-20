@@ -10,3 +10,13 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+.editor-layout{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+    border: 1px solid #2e2e2e;
+}
+
